@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "794140815",
+    "project_id": "todoapp-99a1a",
+    "storage_bucket": "todoapp-99a1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794140815:android:8bd840d3f8e876f0cc90fa",
+        "android_client_info": {
+          "package_name": "com.example.hello_world_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXvPCVqET-tGCD60srrgJldudKAwEtsYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
