@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "711269006183",
+    "project_id": "whatsap-backend-776ee",
+    "storage_bucket": "whatsap-backend-776ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711269006183:android:f5603db2d2184f62b04dc2",
+        "android_client_info": {
+          "package_name": "com.vijaykumar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt6DgKkX_TAFaxQc2qW800DrwZ6jAu6AI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

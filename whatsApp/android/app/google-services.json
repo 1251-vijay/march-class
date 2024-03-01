@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "332357586623",
+    "project_id": "whats-backend-d6250",
+    "storage_bucket": "whats-backend-d6250.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332357586623:android:64c97f48fccbb5ea28400a",
+        "android_client_info": {
+          "package_name": "com.vijay"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPLA02hSyc-xptlQduTX_SvYj_-rvX6zc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
