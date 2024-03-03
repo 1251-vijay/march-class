@@ -104,3 +104,94 @@ void main() {
 // block of code  this is false block
 // }
 }
+
+oid main() {
+  // bool isLogin = false;
+  // if (!isLogin) {
+  //   print("hello world");
+  // } else {
+  //   print("hello");
+  // }
+
+  // for (int i = 0; i <= 10; i++){
+
+  // }
+  // int i = 1;
+  // while (i <= 10) {
+  //   print(i);
+  //   i++;
+  //   //block of code
+  // }
+
+  // while(condition){
+  //   incre/drecement
+  //   block of code
+  // }
+
+  // int a = 0;
+  // do {
+  //   print(a);
+  //   a++;
+  // } while (a <= 10);
+
+/**1
+ * 2
+ * 3
+ * 4
+ * continue
+ * 5
+ * 6
+ * 8
+ * 9
+ * 10
+ */
+  // do {
+  //   increment/decre
+  // } while (conditon);
+
+  // String name = "vijay";
+
+  for (int i = 1; i <= 10; i++) {
+    if (i == 5) {
+      break;
+    }
+    print(i);
+  }
+  // String
+  // void
+  // int
+  //camel case => vijayKumar
+  // bool
+  // void vijayKumar() {
+  //   // return "vijay";
+  // }
+
+  String n = name();
+  print(n);
+  print(name());
+
+  int additon = addNumber();
+  print(additon);
+
+  int add = addNumbers(2, 3);
+  print(add);
+
+  // ignore: unused_element
+}
+
+({int numberInt, String name, bool isLogin, double b, int c, bool wifi})
+    sendPassword() {
+  return (numberInt: 2, name: "vijay", isLogin: true, b: 2.4, c: 2, wifi: true);
+}
+
+String name() {
+  return "vijay kumar";
+}
+
+int addNumber({int a = 10, int b = 20}) {
+  return a + b;
+}
+
+int addNumbers(int x, int y) {
+  return x + y;
+}
